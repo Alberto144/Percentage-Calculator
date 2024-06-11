@@ -1,0 +1,1 @@
+This application is a simple percentage calculator for Android. It is inspired by Google's Kotlin Fundaments With Compose course. This is my first app, so if you have any comments or bugs to report, please report them to me.
